@@ -47,31 +47,6 @@ const items = [
         description:
           'I use this for all of my development work. It’s fast, has a great display, and the battery lasts forever. Plus the M4 chip is incredibly powerful.',
       },
-      {
-        title: 'Vinyl Record Player',
-        description:
-          'I enjoy listening to vinyl records while working on my projects. The warm, rich sound helps me stay focused and sparks creativity as I code. It’s my favorite way to combine my love for technology with a bit of old-school charm.',
-      },
-      {
-        title: 'Keychron K2',
-        description:
-          'I’ve been using this keyboard for a few years now and I love it. It’s wireless, has a great feel, and the battery lasts forever.',
-      },
-      {
-        title: 'Logitech MX Master 3',
-        description:
-          'I’ve been using this mouse for a few years now and it’s great. It’s wireless, has a great feel, and the battery lasts forever.',
-      },
-      {
-        title: 'Audio-Technica ATH-M50x',
-        description:
-          'I’ve been using these headphones for a few years now and they’re great. They’re comfortable, sound good, and are built like a tank.',
-      },
-      {
-        title: 'Rain Design mStand',
-        description:
-          'I’ve been using this stand for my MacBook Pro for a few years now and it’s great. It’s sturdy, looks good, and keeps my laptop cool.',
-      },
     ],
   },
   {
@@ -82,20 +57,15 @@ const items = [
         description:
           'I use VS Code for all of my development work. It’s fast, has great extensions, and is highly customizable.',
       },
-      {
-        title: 'iTerm2 + Oh My Zsh',
-        description:
-          'I use iTerm2 as my terminal and Oh My Zsh as my shell. It’s a great combination. I use the Agnoster theme with the Fira Code font.',
-      },
     ],
   },
   {
-    groupName: 'Design',
+    groupName: 'Entertainment',
     items: [
       {
-        title: 'Figma',
+        title: 'Vinyl Record Player',
         description:
-          'I use Figma for all of my design work. It’s fast, has great collaboration features, and is highly customizable.',
+          'I enjoy listening to vinyl records while working on my projects. The warm, rich sound helps me stay focused and sparks creativity as I code. It’s my favorite way to combine my love for technology with a bit of old-school charm.',
       },
       {
         title: 'Whimsical',
