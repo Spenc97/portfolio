@@ -68,24 +68,9 @@ const items = [
           'I enjoy listening to vinyl records while working on my projects. The warm, rich sound helps me stay focused and sparks creativity as I code. It’s my favorite way to combine my love for technology with a bit of old-school charm.',
       },
       {
-        title: 'Whimsical',
+        title: 'R&B Music',
         description:
-          'I use Whimsical for all of my wireframing and flowcharting. It’s fast, has great collaboration features, and is highly customizable.',
-      },
-    ],
-  },
-  {
-    groupName: 'Productivity',
-    items: [
-      {
-        title: 'Notion',
-        description:
-          'I use Notion for all of my note-taking and knowledge management. It’s fast, has great collaboration features, and is highly customizable.',
-      },
-      {
-        title: 'Alfred',
-        description:
-          'I use Alfred for all of my productivity needs. It’s fast, has great features, and is highly customizable.',
+          'I enjoy listening to R&B music while working on my projects. The smooth melodies and rhythms help me stay focused and inspired as I code. So far my favorite artist is Isaiah Falls',
       },
     ],
   },
