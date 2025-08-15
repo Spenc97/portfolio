@@ -33,7 +33,7 @@ const links = [
 
 const text = {
   heading: "Projects",
-  body: "Here are some of the projects I have worked on. After generating your fancy text symbols, you can copy and paste the to most websites and text processors. You could use it to generate a fancy Agario name (yep, weird text in agario is probably generated using a fancy text converter similar to this), to generate a creative-looking instagram, facebook, tumblr, or twitter post, for showing up n00bs on Steam, or just for sending messages full of beautiful text to your buddies.",
+  body: "Aside from this school project, I have not yet had the opportunity to work on a professional software project or anything directly related to the field. However, I’m eager to gain hands-on experience, take on new challenges, and continue building my skills through future opportunities. If I had more projects, they would be listed below.",
 };
 
 const projects = [

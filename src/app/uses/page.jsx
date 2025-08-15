@@ -34,23 +34,23 @@ const links = [
 ];
 
 const text = {
-  heading: "Uses",
-  body: "This section contains the Uses that we can give to all of the tools that we have built, that we have worked on and stuff we would like to see in our own repository in the case that we choose the best of our work to show.",
-  };
+  heading: "Gadgets I use and other things I love and recommend",
+  body: "This section contains the gadgets that I use and recommend based on my experience.",
+};
 
 const items = [
   {
     groupName: 'Workstation',
     items: [
       {
-        title: '16” MacBook Pro, M1 Max, 64GB RAM (2022)',
+        title: '16” MacBook Air, M4 Max, 64GB RAM (2025)',
         description:
-          'I was using an Intel-based 16” MacBook Pro prior to this and the difference is night and day. I’ve never heard the fans turn on a single time, even under the incredibly heavy loads I put it through with our various launch simulations.',
+          'I use this for all of my development work. It’s fast, has a great display, and the battery lasts forever. Plus the M4 chip is incredibly powerful.',
       },
       {
-        title: 'Dell UltraSharp U2717D',
+        title: 'Vinyl Record Player',
         description:
-          'I have two of these monitors and they’re great. I’ve had them for years and they’ve been rock solid.',
+          'I enjoy listening to vinyl records while working on my projects. The warm, rich sound helps me stay focused and sparks creativity as I code. It’s my favorite way to combine my love for technology with a bit of old-school charm.',
       },
       {
         title: 'Keychron K2',
