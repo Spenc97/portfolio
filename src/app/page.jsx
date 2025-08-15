@@ -18,18 +18,18 @@ import { useState } from "react";
 
 const articles = [
   {
-    date: "Nov 15, 2021",
-    title: "Everything you need to know about React",
+    date: "July 28, 2023",
+    title: "Nike Retail Associate",
     content:
-      "The ability to build stuff in React is one of the hottest skills to have today in software engineering. There is a lot of demand for React developers among startups as well as MNCs.",
-    link: "https://medium.com/the-research-nest/everything-you-need-to-know-about-react-ab24da4275ea",
+      "The Nike Retail Associate is responsible for delivering a premium consumer experience by providing expert advice and guidance on Nike products and services. This role involves engaging with customers, understanding their needs, and offering tailored solutions to enhance their shopping experience.",
+    link: "https://www.nike.com/retail-associate",
   },
   {
-    date: "Sep 2, 2020",
-    title: "The Missing Introduction to React",
+    date: "August 15, 2023",
+    title: "BMW",
     content:
-      "React is the world’s most popular JavaScript framework, but it’s not cool because it’s popular. It’s popular because it’s cool. Most React introductions jump right into showing you examples of how to use React, and skip the “why”.",
-    link: "https://medium.com/javascript-scene/the-missing-introduction-to-react-62837cb2fd76",
+      "BMW is a German multinational company that produces luxury vehicles and motorcycles. The company is known for its performance-oriented cars and has a strong presence in motorsports.",
+    link: "https://www.bmw.com/",
   },
 ];
 
@@ -99,10 +99,10 @@ export default function Home() {
 
       <div className={`flex flex-col md:flex-row gap-8 justify-center`}>
         <ProjectCard
-          name={"Ensign College"}
+          name={"Spencer Madrid"}
           logo={"/ensign.png"}
           content={
-            "Working with the Product Team to discover strong solutions for a digital product to support hourly-based external recruiting services. Our platform is built on top of firebase technologies, including Firestore, Cloud Functions (NodeJS + Typescript), Sveltekit, and Typesense."
+            "I have collaborated on several group projects during my college courses, gaining experience in teamwork and project development. Most recently, I worked with a team of four to design and build a website for a school as part of my portfolio. This project involved planning, coding, and refining the site to meet both functional and visual goals. Through this experience, I strengthened my skills in communication, problem-solving, and web development."
           }
           link={"https://www.ensign.edu/"}
         />
@@ -131,24 +131,24 @@ export default function Home() {
             experiences={[
               {
                 logo: "/slack.png",
-                organization: "Slack",
-                jobTitle: "Software Engineer",
-                startYear: 2016,
-                endYear: null,
+                organization: "Nike",
+                jobTitle: "Sales Associate",
+                startYear: 2023,
+                endYear: 2024,
               },
               {
                 logo: "/spotify.png",
-                organization: "Spotify",
-                jobTitle: "Software Engineer",
-                startYear: 2014,
-                endYear: 2015,
+                organization: "BMW",
+                jobTitle: "Parts Sales Associate",
+                startYear: 2023,
+                endYear: 2024,
               },
               {
                 logo: "/audible.png",
-                organization: "Audible",
-                jobTitle: "Software Engineer",
-                startYear: 2012,
-                endYear: 2013,
+                organization: "BYU-Pathway",
+                jobTitle: "Student Advisor",
+                startYear: 2022,
+                endYear: 2023,
               },
               {
                 logo: "/microsoft.png",
