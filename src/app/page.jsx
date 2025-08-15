@@ -130,32 +130,25 @@ export default function Home() {
             content={"My work experience."}
             experiences={[
               {
-                logo: "/slack.png",
+                logo: "https://substackcdn.com/image/fetch/$s_!XD-J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67979fc2-9bc6-4ef1-a91a-9f8129c57645_1500x1500.jpeg",
                 organization: "Nike",
                 jobTitle: "Sales Associate",
                 startYear: 2023,
                 endYear: 2024,
               },
               {
-                logo: "/spotify.png",
+                logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpAHsKSKOTFnOUWVehuc7dXEW0omBZYdx8A&s",
                 organization: "BMW",
                 jobTitle: "Parts Sales Associate",
                 startYear: 2023,
                 endYear: 2024,
               },
               {
-                logo: "/audible.png",
+                logo: "https://media.licdn.com/dms/image/v2/D560BAQHEcSYkNN5nMw/company-logo_200_200/company-logo_200_200/0/1683750782709/byupathway_logo?e=2147483647&v=beta&t=Mp5JbhVjSe4CJuExF5bsIPxIirCoegiDjM2h-HtX7KE",
                 organization: "BYU-Pathway",
                 jobTitle: "Student Advisor",
                 startYear: 2022,
                 endYear: 2023,
-              },
-              {
-                logo: "/microsoft.png",
-                organization: "Microsoft",
-                jobTitle: "Software Engineer",
-                startYear: 2010,
-                endYear: 2011,
               },
             ]}
           />
