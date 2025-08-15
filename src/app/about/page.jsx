@@ -38,21 +38,16 @@ export default function About() {
           {/* Left Column - Content */}
           <div className="space-y-6">
             <h1 className="text-4xl font-bold text-gray-900 dark:text-white">
-              I'm JP. I live in New York City, where I develop the future.
+              I&apos;m Spencer. I live in Orem UT!
             </h1>
 
             <div className="space-y-4 text-lg text-gray-700 dark:text-gray-300">
               <p>
-                Welcome to my portfolio! I'm a passionate software engineer with a love for creating innovative
-                solutions that make a difference. Based in the heart of New York City, I'm constantly inspired by the
-                city's energy and the endless possibilities of technology.
+                Welcome to my portfolio! I&apos;m Spencer, a beginner software engineer excited to create great things in the world of technology. Living in Orem, Utah, I’m surrounded by a growing tech community that fuels my curiosity and pushes me to improve every day. I’m committed to learning new skills, building creative projects, and becoming a stronger developer with each step forward.
               </p>
 
               <p>
-                With several years of experience in software development, I've had the privilege of working with amazing
-                teams at companies like Slack, Spotify, Audible, and Microsoft. Each role has taught me valuable lessons
-                about building scalable applications, collaborating effectively, and staying current with emerging
-                technologies.
+                I&apos;ve had the privilege of working with amazing teams at companies like Nike, BMW, and BYU-Pathway. Each role has taught me valuable lessons about building scalable applications, collaborating effectively, and staying current with emerging technologies.
               </p>
 
               <p>
@@ -62,7 +57,7 @@ export default function About() {
               </p>
 
               <p>
-                When I'm not coding, you can find me exploring the city's diverse neighborhoods, attending tech meetups,
+                When I&apos;m not coding, you can find me exploring the city&apos;s diverse neighborhoods, attending tech meetups,
                 or contributing to open-source projects. I believe in continuous learning and sharing knowledge with the
                 developer community.
               </p>
@@ -71,12 +66,7 @@ export default function About() {
 
           {/* Right Column - Profile Image and Social Links */}
           <div className="space-y-8">
-            {/* Profile Image */}
-            <div className="flex justify-center lg:justify-start">
-              <div className="w-64 h-64 rounded-2xl overflow-hidden bg-gradient-to-br from-blue-400 to-purple-600 flex items-center justify-center">
-                <div className="text-white text-6xl font-bold">J</div>
-              </div>
-            </div>
+
 
             {/* Social Links */}
             <div className="space-y-4">
